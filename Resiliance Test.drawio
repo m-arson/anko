@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="khiKNV9_wSGJ7rBO3mhU">
-    <mxGraphModel dx="1502" dy="1447" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2204" dy="1820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
           <mxGeometry x="680" y="90" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OyTotf3cjlx3w-jjL12O-36" value="&lt;b&gt;TESTING SCENARIO:&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. HTTPS&lt;/div&gt;&lt;div&gt;Need confirmation.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. SFTP&lt;/div&gt;&lt;div&gt;Any to PEGA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. MQ&lt;br&gt;&lt;div&gt;FIGW to YGN (Vice versa)&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;TO DO:&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- &lt;/b&gt;Get PEGA SOAP message.&lt;/div&gt;&lt;div&gt;- Create Script to monitor changes of resolved IP from guest&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="549" y="489" width="407" height="240" as="geometry" />
+          <mxGeometry x="965" y="-144" width="407" height="240" as="geometry" />
         </mxCell>
         <mxCell id="OyTotf3cjlx3w-jjL12O-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;curved=0;" edge="1" parent="1" source="OyTotf3cjlx3w-jjL12O-37" target="OyTotf3cjlx3w-jjL12O-15">
           <mxGeometry relative="1" as="geometry" />
